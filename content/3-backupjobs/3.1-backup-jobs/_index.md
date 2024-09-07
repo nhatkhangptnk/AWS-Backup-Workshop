@@ -8,8 +8,6 @@ pre : " <b> 3.1. </b> "
 
 1. Open the [**AWS Backup console**](https://ap-southeast-2.console.aws.amazon.com/backup/home?region=ap-southeast-2#/)
 
-![EC2](../images/3.awsbackup/01-openAWSBackup.png)
-
 2. Configure the services used with AWS Backup
 
 - On the left side of [**AWS Backup console**](https://ap-southeast-2.console.aws.amazon.com/backup/home?region=ap-southeast-2#/), under **My account**, choose Settings.
